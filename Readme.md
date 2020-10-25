@@ -17,7 +17,12 @@ But in this project we are going to work on the [**Crimes in Chicago Dataset**](
 
 After data wrangling proccess, I have splitted the data into **5 datasites** for easy access, and they are `crimes`, `locations`, `dates`, `coordinates` and `top_danger_locs` datasets.
 
-**Note:** Datasets are zipped in Data Folder.
+## Notes
+- In order to run the project, first download the [**Chicago Crime Dataset**](https://www.kaggle.com/currie32/crimes-in-chicago), then put it in `Data` folder.
+- The notebooks order as follow:
+    1. **01_Wrangling.ipynb****
+    2. **02_Analyzing.ipynb**
+    3. **03_Slideshow.ipynb**
 
 ## Summary of Findings
 1. I found that `Theft`, `Battery` and `Criminal Damage` are the top crimes in **Chicago**.
