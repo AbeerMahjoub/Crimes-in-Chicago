@@ -21,7 +21,7 @@ After data wrangling proccess, I have splitted the data into **5 datasites** for
 ## Notes
 - In order to run the project, first download the [**Chicago Crime Dataset**](https://www.kaggle.com/currie32/crimes-in-chicago), then put it in `Data` folder.
 - The notebooks order as follow:
-    1. **01_Wrangling.ipynb****
+    1. **01_Wrangling.ipynb**
     2. **02_Analyzing.ipynb**
     3. **03_Slideshow.ipynb**
     
