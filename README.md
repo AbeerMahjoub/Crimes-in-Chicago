@@ -2,7 +2,7 @@
 ## by Moahmed Desouky
 
 ## Introduction
-In this project I will **Explore**, **analyze** and **visualize** the dataset to find some relationships and answers about crimes in Chicago.
+In this project we will **Explored**, **analyzed** and **visualized** Chicago Crime dataset to find some relationships and answers about crimes in Chicago.
 
 This project has **two notebooks** that needed to perform the compelete data analysis process. 
 
